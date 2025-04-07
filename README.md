@@ -27,13 +27,23 @@ This project uses a Logistic Regression model to predict the presence of heart d
   - Confusion Matrix
   - Classification Report
   - ROC-AUC Score
-  - 
+
 ✅ Results
 
 - **Model Accuracy**: ~82.6%
 - Confusion Matrix & Classification Report included in the notebook
 - Clean visualizations using `seaborn` and `matplotlib`
 
-Made by M.S.Rithika
-Connect with me on https://www.linkedin.com/in/rithikamurugesan369/
+  ---
+
+🚀 Learning Journey
+
+This project is part of my ongoing commitment to learning Machine Learning by building real-world projects.  
+It is my  **second GitHub project**,and one of the milestone in **#100DaysOfMLCode** journey — a personal challenge to practice and grow consistently.  
+More projects coming soon! 💻🧠✨
+
+#100DaysOfMLCode #MachineLearning #DataScience #Python
+
+
+Made by M.S.Rithika  Connect with me on https://www.linkedin.com/in/rithikamurugesan369/
 
